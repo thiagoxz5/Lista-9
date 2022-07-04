@@ -1,0 +1,8 @@
+#include <iostream>
+#include <string.h>
+/* Uma pessoa criou um arquivo (nome fornecido pelo usuário) que contém as informações de 15 eletrodomésticos: nome da loja, telefone e preço de cada eletrodoméstico. Elabore uma classe chamada Eletrodomestico com esses atributos e métodos para manipulá-los (construtores, assessores, exibição). Desenvolva um programa que permita ler os dados deste arquivo e preencher um vetor com  objetos do tipo Eletrodomestico. O programa também deve calcular e gravar em um outro  arquivo (nome  fornecido  pelo  usuário) a média dos preços cadastrados e uma relação contendo o nome e o telefone das lojas cujo preço estava abaixo da média. */
+
+
+int main() {
+  
+  }
